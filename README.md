@@ -1,0 +1,1 @@
+Simple mock live resume built with vanilla html/css/javascript
